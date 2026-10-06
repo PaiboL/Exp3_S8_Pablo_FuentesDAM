@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050" viewBox="0 0 1800 1050">
+  <rect width="1800" height="1050" fill="#f5f8f8"/>
+  <style>
+    .title { font: 700 44px Arial, sans-serif; fill: #083f40; }
+    .subtitle { font: 30px Arial, sans-serif; fill: #5a6667; }
+    .root { fill: #116667; stroke: #0b5d5e; stroke-width: 3; }
+    .level { fill: #d8f2f2; stroke: #0b5d5e; stroke-width: 3; }
+    .leaf { fill: #ffffff; stroke: #8ba0a1; stroke-width: 2; }
+    .rootText { font: 700 34px Arial, sans-serif; fill: #ffffff; text-anchor: middle; }
+    .levelText { font: 700 27px Arial, sans-serif; fill: #083f40; text-anchor: middle; }
+    .leafText { font: 700 22px Arial, sans-serif; fill: #1d2526; text-anchor: middle; }
+    .line { stroke: #0b5d5e; stroke-width: 6; fill: none; }
+    .thin { stroke: #6e8182; stroke-width: 4; fill: none; }
+  </style>
+  <text x="60" y="76" class="title">Estructura de Desglose de Trabajo (EDT)</text>
+  <text x="60" y="124" class="subtitle">Proyecto SeñalSegura · Actividad Sumativa 2 · Semana 5</text>
+
+  <rect x="650" y="170" width="500" height="112" rx="18" class="root"/>
+  <text x="900" y="238" class="rootText">1. SEÑALSEGURA</text>
+  <path d="M900 282 V360 M230 360 H1590" class="line"/>
+
+  <path d="M230 360 V420 M570 360 V420 M910 360 V420 M1250 360 V420 M1590 360 V420" class="line"/>
+  <rect x="80" y="420" width="300" height="112" rx="17" class="level"/>
+  <rect x="420" y="420" width="300" height="112" rx="17" class="level"/>
+  <rect x="760" y="420" width="300" height="112" rx="17" class="level"/>
+  <rect x="1100" y="420" width="300" height="112" rx="17" class="level"/>
+  <rect x="1440" y="420" width="300" height="112" rx="17" class="level"/>
+  <text x="230" y="487" class="levelText">1.1 Análisis</text>
+  <text x="570" y="487" class="levelText">1.2 Diseño</text>
+  <text x="910" y="487" class="levelText">1.3 Desarrollo</text>
+  <text x="1250" y="487" class="levelText">1.4 Validación</text>
+  <text x="1590" y="487" class="levelText">1.5 Entrega</text>
+
+  <path d="M230 532 V650 M570 532 V650 M910 532 V650 M1250 532 V650 M1590 532 V650" class="thin"/>
+  <path d="M230 780 V850 M570 780 V850 M910 780 V850 M1250 780 V850 M1590 780 V850" class="thin"/>
+
+  <rect x="92" y="650" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="432" y="650" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="772" y="650" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="1112" y="650" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="1452" y="650" width="276" height="130" rx="14" class="leaf"/>
+  <text x="230" y="710" class="leafText"><tspan x="230">1.1.1 Requisitos</tspan><tspan x="230" dy="30">y pauta</tspan></text>
+  <text x="570" y="725" class="leafText">1.2.1 Mockups</text>
+  <text x="910" y="710" class="leafText"><tspan x="910">1.3.1 Kotlin</tspan><tspan x="910" dy="30">avanzado</tspan></text>
+  <text x="1250" y="710" class="leafText"><tspan x="1250">1.4.1 Pruebas</tspan><tspan x="1250" dy="30">unitarias</tspan></text>
+  <text x="1590" y="710" class="leafText"><tspan x="1590">1.5.1 Informe</tspan><tspan x="1590" dy="30">PDF</tspan></text>
+
+  <rect x="92" y="850" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="432" y="850" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="772" y="850" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="1112" y="850" width="276" height="130" rx="14" class="leaf"/>
+  <rect x="1452" y="850" width="276" height="130" rx="14" class="leaf"/>
+  <text x="230" y="910" class="leafText"><tspan x="230">1.1.2 Riesgos y</tspan><tspan x="230" dy="30">accesibilidad</tspan></text>
+  <text x="570" y="910" class="leafText"><tspan x="570">1.2.2 Navegación</tspan><tspan x="570" dy="30">adaptativa</tspan></text>
+  <text x="910" y="910" class="leafText"><tspan x="910">1.3.2 UI, datos</tspan><tspan x="910" dy="30">y excepciones</tspan></text>
+  <text x="1250" y="910" class="leafText"><tspan x="1250">1.4.2 Revisión</tspan><tspan x="1250" dy="30">técnica y visual</tspan></text>
+  <text x="1590" y="910" class="leafText"><tspan x="1590">1.5.2 Git y ZIP</tspan><tspan x="1590" dy="30">final</tspan></text>
+</svg>

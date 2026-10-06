@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SenalSegura" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#063B3C</item>
+        <item name="android:navigationBarColor">#063B3C</item>
+    </style>
+</resources>
+

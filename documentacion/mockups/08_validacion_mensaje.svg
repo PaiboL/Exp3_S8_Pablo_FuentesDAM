@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+  <rect width="900" height="1600" fill="#eef4f4"/>
+  <rect x="170" y="50" width="560" height="1500" rx="60" fill="#172022"/>
+  <rect x="192" y="92" width="516" height="1416" rx="42" fill="#ffffff"/>
+  <rect x="355" y="67" width="190" height="18" rx="9" fill="#4e5b5d"/>
+  <rect x="192" y="92" width="516" height="128" rx="42" fill="#0b5d5e"/>
+  <rect x="192" y="174" width="516" height="46" fill="#0b5d5e"/>
+  <text x="230" y="168" font-family="Arial" font-size="30" font-weight="700" fill="#fff">SeñalSegura</text>
+  <text x="630" y="168" text-anchor="end" font-family="Arial" font-size="22" fill="#fff">Salir</text>
+
+  <text x="228" y="274" font-family="Arial" font-size="28" font-weight="700" fill="#083f40">Hola, Pablo</text>
+  <text x="228" y="310" font-family="Arial" font-size="18" fill="#39484a">Comunica tu mensaje de forma visible.</text>
+  <rect x="228" y="348" width="444" height="240" rx="24" fill="#d8f2f2"/>
+  <text x="450" y="397" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#0b5d5e">MENSAJE PARA MOSTRAR</text>
+  <text x="450" y="475" text-anchor="middle" font-family="Arial" font-size="29" font-weight="700" fill="#083f40">Escribe un mensaje</text>
+  <text x="450" y="513" text-anchor="middle" font-family="Arial" font-size="29" font-weight="700" fill="#083f40">o selecciona una frase</text>
+
+  <rect x="228" y="632" width="444" height="260" rx="14" fill="#fff" stroke="#b3261e" stroke-width="4"/>
+  <text x="249" y="667" font-family="Arial" font-size="16" fill="#b3261e">Escribe aquí tu mensaje</text>
+  <text x="249" y="720" font-family="Arial" font-size="20" fill="#1d2526">Este mensaje supera el límite permitido</text>
+  <text x="249" y="753" font-family="Arial" font-size="20" fill="#1d2526">para mantener una lectura rápida y clara...</text>
+  <text x="249" y="865" font-family="Arial" font-size="17" fill="#b3261e">184/180 caracteres</text>
+
+  <rect x="228" y="926" width="210" height="82" rx="18" fill="#0b5d5e"/>
+  <text x="333" y="978" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#fff">Mostrar</text>
+  <rect x="462" y="926" width="210" height="82" rx="18" fill="#fff" stroke="#0b5d5e" stroke-width="3"/>
+  <text x="567" y="978" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700" fill="#0b5d5e">Reproducir voz</text>
+
+  <rect x="228" y="1050" width="444" height="105" rx="18" fill="#fde8e6"/>
+  <text x="252" y="1092" font-family="Arial" font-size="22" fill="#b3261e">⚠ El mensaje no puede superar</text>
+  <text x="285" y="1125" font-family="Arial" font-size="22" fill="#b3261e">180 caracteres</text>
+
+  <text x="228" y="1240" font-family="Arial" font-size="22" font-weight="700" fill="#083f40">Validación controlada</text>
+  <text x="228" y="1277" font-family="Arial" font-size="18" fill="#39484a">La función de extensión normaliza el texto.</text>
+  <text x="228" y="1308" font-family="Arial" font-size="18" fill="#39484a">try/catch muestra el error esperado.</text>
+  <text x="228" y="1339" font-family="Arial" font-size="18" fill="#39484a">finally registra que el intento terminó.</text>
+</svg>

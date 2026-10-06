@@ -1,0 +1,20 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".validate": "newData.hasChildren(['uid', 'name', 'email']) && newData.child('uid').val() === auth.uid && newData.child('name').isString() && newData.child('email').isString()"
+      }
+    },
+    "alerts": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        "$alertId": {
+          ".validate": "newData.hasChildren(['id', 'ownerId', 'title', 'message', 'category']) && newData.child('id').val() === $alertId && newData.child('ownerId').val() === auth.uid && newData.child('title').isString() && newData.child('title').val().length <= 60 && newData.child('message').isString() && newData.child('message').val().length <= 180"
+        }
+      }
+    }
+  }
+}

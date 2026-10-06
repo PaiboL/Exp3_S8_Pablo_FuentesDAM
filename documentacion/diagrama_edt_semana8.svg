@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="930" viewBox="0 0 1760 930">
+<rect width="1760" height="930" fill="#F5F8FC"/>
+<text x="880" y="60" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#102A43">SeñalSegura · EDT Semana 8</text>
+<rect x="530" y="95" width="700" height="110" rx="22" fill="#163A5F"/>
+<text x="880" y="145" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="white">Proyecto de distribución Android/Kotlin</text>
+<text x="880" y="182" text-anchor="middle" font-family="Arial" font-size="21" fill="#E7F0FA">Integración · validación · preparación de entrega</text>
+<path d="M880 205 V265 H220 M880 265 H1540 M220 265 V315 M660 265 V315 M1100 265 V315 M1540 265 V315" stroke="#627D98" stroke-width="5" fill="none"/>
+<rect x="25" y="315" width="390" height="415" rx="20" fill="white" stroke="#3E6B89" stroke-width="3"/>
+<rect x="25" y="315" width="390" height="90" rx="20" fill="#D9EAF7" stroke="#3E6B89" stroke-width="2"/>
+<text x="220" y="350" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700" fill="#163A5F">1.1</text>
+<text x="220" y="385" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#163A5F">Interfaz accesible</text>
+<circle cx="70" cy="478" r="8" fill="#287D78"/>
+<text x="95" y="485" font-family="Arial" font-size="21" fill="#243B53">Compose + Material 3</text>
+<circle cx="70" cy="558" r="8" fill="#287D78"/>
+<text x="95" y="565" font-family="Arial" font-size="21" fill="#243B53">Views adaptativas y TalkBack</text>
+<circle cx="70" cy="638" r="8" fill="#287D78"/>
+<text x="95" y="645" font-family="Arial" font-size="21" fill="#243B53">TTS, contraste y Palette</text>
+<rect x="465" y="315" width="390" height="415" rx="20" fill="white" stroke="#3E6B89" stroke-width="3"/>
+<rect x="465" y="315" width="390" height="90" rx="20" fill="#D9EAF7" stroke="#3E6B89" stroke-width="2"/>
+<text x="660" y="350" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700" fill="#163A5F">1.2</text>
+<text x="660" y="385" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#163A5F">Backend persistente</text>
+<circle cx="510" cy="478" r="8" fill="#287D78"/>
+<text x="535" y="485" font-family="Arial" font-size="21" fill="#243B53">Firebase Auth + RTDB</text>
+<circle cx="510" cy="558" r="8" fill="#287D78"/>
+<text x="535" y="565" font-family="Arial" font-size="21" fill="#243B53">SharedPreferences de sesión</text>
+<circle cx="510" cy="638" r="8" fill="#287D78"/>
+<text x="535" y="645" font-family="Arial" font-size="21" fill="#243B53">CRUD y reglas por UID</text>
+<rect x="905" y="315" width="390" height="415" rx="20" fill="white" stroke="#3E6B89" stroke-width="3"/>
+<rect x="905" y="315" width="390" height="90" rx="20" fill="#D9EAF7" stroke="#3E6B89" stroke-width="2"/>
+<text x="1100" y="350" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700" fill="#163A5F">1.3</text>
+<text x="1100" y="385" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#163A5F">Pruebas y release</text>
+<circle cx="950" cy="478" r="8" fill="#287D78"/>
+<text x="975" y="485" font-family="Arial" font-size="21" fill="#243B53">JUnit: 40 pruebas</text>
+<circle cx="950" cy="558" r="8" fill="#287D78"/>
+<text x="975" y="565" font-family="Arial" font-size="21" fill="#243B53">APK Android 1.0.0 firmado</text>
+<circle cx="950" cy="638" r="8" fill="#287D78"/>
+<text x="975" y="645" font-family="Arial" font-size="21" fill="#243B53">Verificación y huellas SHA-256</text>
+<rect x="1345" y="315" width="390" height="415" rx="20" fill="white" stroke="#3E6B89" stroke-width="3"/>
+<rect x="1345" y="315" width="390" height="90" rx="20" fill="#D9EAF7" stroke="#3E6B89" stroke-width="2"/>
+<text x="1540" y="350" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700" fill="#163A5F">1.4</text>
+<text x="1540" y="385" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#163A5F">Documentación</text>
+<circle cx="1390" cy="478" r="8" fill="#287D78"/>
+<text x="1415" y="485" font-family="Arial" font-size="21" fill="#243B53">Formato y restricciones</text>
+<circle cx="1390" cy="558" r="8" fill="#287D78"/>
+<text x="1415" y="565" font-family="Arial" font-size="21" fill="#243B53">Cinco riesgos actualizados</text>
+<circle cx="1390" cy="638" r="8" fill="#287D78"/>
+<text x="1415" y="645" font-family="Arial" font-size="21" fill="#243B53">Git + publicación</text>
+<text x="880" y="820" text-anchor="middle" font-family="Arial" font-size="22" fill="#334E68">Cierre: código versionado · pruebas ejecutadas · APK firmado · proceso de publicación documentado</text></svg>

@@ -1,0 +1,27 @@
+Verificación del APK de distribución
+=====================================
+Archivo: distribucion/SenalSegura-1.0.0-release-signed.apk
+Tamaño: 10,590,122 bytes
+SHA-256 del APK: 9eb620f0c229a786d851e2d48958e11f41bb9811894df8c5a9a7f809cc15a949
+
+Resultado apksigner verify --verbose --print-certs:
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=SenalSegura, OU=Proyecto Académico, O=SeñalSegura, C=CL
+Signer #1 certificate SHA-256 digest: cd2b7832c27dcd724388692576acb3cae9be4d3cfefc6b84c5a0576aa760e0f4
+Signer #1 certificate SHA-1 digest: 680b4e62b44bdfb076dbfd2fd743fe1c5dd94087
+Signer #1 certificate MD5 digest: b81d4b7dead6096ee41fb2b37b31ccf9
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: dab8c7299a090d02e0139d81059dfa098326cd3acb93fae458091fdb5245d806
+Signer #1 public key SHA-1 digest: a2b26b6ee6a1bd271ba5238fb2646d4abc3509ba
+Signer #1 public key MD5 digest: 1ca7d879adf5b454351a3f03923076fe
+
+Resultado zipalign -c -v 4: correcto.
+La clave privada temporal de firma no se incluye en el ZIP.

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeñalSegura</string>
+    <string name="widget_description">Acceso rápido a una alerta accesible de SeñalSegura</string>
+    <string name="widget_default_title">Necesito ayuda urgente</string>
+    <string name="widget_default_message">Necesito ayuda inmediata</string>
+    <string name="widget_open_button">Abrir SeñalSegura</string>
+    <string name="widget_open_description">Abrir la aplicación SeñalSegura</string>
+</resources>

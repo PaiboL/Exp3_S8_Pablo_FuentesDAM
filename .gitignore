@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+app/build
+
+# Configuración particular de Firebase. Cada desarrollador descarga la suya
+# desde Firebase Console para la aplicación cl.duoc.senalsegura.
+app/google-services.json

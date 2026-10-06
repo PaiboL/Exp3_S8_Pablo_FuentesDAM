@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+  <rect width="900" height="1600" fill="#eef4f4"/>
+  <rect x="170" y="50" width="560" height="1500" rx="60" fill="#172022"/>
+  <rect x="192" y="92" width="516" height="1416" rx="42" fill="#ffffff"/>
+  <rect x="355" y="67" width="190" height="18" rx="9" fill="#4e5b5d"/>
+  <rect x="192" y="92" width="516" height="128" rx="42" fill="#0b5d5e"/>
+  <rect x="192" y="174" width="516" height="46" fill="#0b5d5e"/>
+  <text x="230" y="168" font-family="Arial" font-size="44" fill="#fff">‹</text>
+  <text x="284" y="167" font-family="Arial" font-size="29" font-weight="700" fill="#fff">Alertas accesibles</text>
+  <text x="228" y="276" font-family="Arial" font-size="31" font-weight="700" fill="#083f40">Mensajes predefinidos</text>
+  <text x="228" y="315" font-family="Arial" font-size="18" fill="#39484a">Filtra y selecciona un mensaje accesible.</text>
+
+  <rect x="228" y="352" width="444" height="92" rx="14" fill="#fff" stroke="#647677" stroke-width="2"/>
+  <text x="249" y="382" font-family="Arial" font-size="15" fill="#0b5d5e">Buscar alerta</text>
+  <text x="249" y="417" font-family="Arial" font-size="22" fill="#1d2526">protección</text>
+  <text x="249" y="466" font-family="Arial" font-size="16" fill="#526062">1 de 5 alertas</text>
+
+  <rect x="228" y="490" width="444" height="105" rx="14" fill="#fff" stroke="#647677" stroke-width="2"/>
+  <text x="249" y="522" font-family="Arial" font-size="15" fill="#0b5d5e">Categoría</text>
+  <text x="249" y="558" font-family="Arial" font-size="22" fill="#1d2526">Seguridad</text>
+  <text x="638" y="554" font-family="Arial" font-size="25" fill="#0b5d5e">⌄</text>
+
+  <text x="228" y="646" font-family="Arial" font-size="21" font-weight="700" fill="#1d2526">Mostrar solo favoritas</text>
+  <text x="228" y="676" font-family="Arial" font-size="17" fill="#526062">Favoritas seleccionadas: 2</text>
+  <rect x="590" y="624" width="80" height="44" rx="22" fill="#0b5d5e"/>
+  <circle cx="646" cy="646" r="18" fill="#fff"/>
+
+  <rect x="228" y="724" width="444" height="510" rx="24" fill="#e4f5f4"/>
+  <text x="260" y="794" font-family="Arial" font-size="46">🦺</text>
+  <text x="260" y="844" font-family="Arial" font-size="27" font-weight="700" fill="#083f40">Equipo de protección</text>
+  <text x="260" y="883" font-family="Arial" font-size="18" font-weight="700" fill="#0b5d5e">Seguridad</text>
+  <text x="260" y="928" font-family="Arial" font-size="21" fill="#1d2526">Necesito mi equipo de</text>
+  <text x="260" y="960" font-family="Arial" font-size="21" fill="#1d2526">protección antes de continuar.</text>
+  <rect x="260" y="1004" width="26" height="26" rx="4" fill="#0b5d5e"/>
+  <path d="M266 1017 l7 7 l15 -18" fill="none" stroke="#fff" stroke-width="4"/>
+  <text x="301" y="1026" font-family="Arial" font-size="19" fill="#1d2526">Marcar como favorita</text>
+  <text x="260" y="1074" font-family="Arial" font-size="17" fill="#526062">Usada 1 vez</text>
+  <rect x="260" y="1110" width="380" height="82" rx="18" fill="#0b5d5e"/>
+  <text x="450" y="1162" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#fff">Usar este mensaje</text>
+
+  <text x="450" y="1320" text-anchor="middle" font-family="Arial" font-size="17" fill="#607173">Descripción semántica disponible para TalkBack</text>
+</svg>

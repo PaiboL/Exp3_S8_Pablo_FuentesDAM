@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.duoc.senalsegura.util.MessageAnalyzerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-05T21:01:09.300Z" hostname="3efdcd6db656" time="0.001">
+  <properties/>
+  <testcase name="urgentKeywordCreatesEmergencyPriority" classname="cl.duoc.senalsegura.util.MessageAnalyzerTest" time="0.001"/>
+  <testcase name="nullableMessageIsHandledSafely" classname="cl.duoc.senalsegura.util.MessageAnalyzerTest" time="0.0"/>
+  <testcase name="longMessageCreatesImportantPriority" classname="cl.duoc.senalsegura.util.MessageAnalyzerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

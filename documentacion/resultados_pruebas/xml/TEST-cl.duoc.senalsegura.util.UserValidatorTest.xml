@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.duoc.senalsegura.util.UserValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-05T21:01:09.305Z" hostname="3efdcd6db656" time="0.0">
+  <properties/>
+  <testcase name="validRegistrationReturnsNull" classname="cl.duoc.senalsegura.util.UserValidatorTest" time="0.0"/>
+  <testcase name="differentPasswordsReturnAnError" classname="cl.duoc.senalsegura.util.UserValidatorTest" time="0.0"/>
+  <testcase name="validEmailRequiresAtSignAndDomainPoint" classname="cl.duoc.senalsegura.util.UserValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

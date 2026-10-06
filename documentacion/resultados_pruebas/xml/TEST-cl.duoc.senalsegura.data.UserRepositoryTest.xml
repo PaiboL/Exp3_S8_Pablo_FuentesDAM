@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.duoc.senalsegura.data.UserRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-05T21:01:09.279Z" hostname="3efdcd6db656" time="0.012">
+  <properties/>
+  <testcase name="authenticateRejectsInvalidCredentials" classname="cl.duoc.senalsegura.data.UserRepositoryTest" time="0.011"/>
+  <testcase name="registerAddsANewUserAndRejectsDuplicateEmail" classname="cl.duoc.senalsegura.data.UserRepositoryTest" time="0.001"/>
+  <testcase name="authenticateAcceptsValidCredentials" classname="cl.duoc.senalsegura.data.UserRepositoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
